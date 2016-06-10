@@ -1,4 +1,6 @@
 # acmeproject
 sample project for Javadoc content
 
-## This is a sample edit.
+## My edit
+
+This is a **sample** edit.
