@@ -1,6 +1,6 @@
 ---
 title: Some file
-permalink: /somefile/
+permalink: "/somefile/"
 ---
 
 This is some file...
